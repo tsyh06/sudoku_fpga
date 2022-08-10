@@ -4,7 +4,7 @@ A sudoku game that runs on the FPGA board written in C. This is a collaboration 
 
 ## Disclaimer of the code
 
-This project is an academic project for ECE243, University of Toronto. Due to Academic Integrity concerns, we cannot share the full version of the code to prevent students from copying. Other are welcome to request the full code.
+This project is an academic project for ECE243, University of Toronto. Due to Academic Integrity concerns, we cannot share the full version of the code to prevent students from copying. Others are welcome to request access of the full code.
 
 ## Running on the website
 
